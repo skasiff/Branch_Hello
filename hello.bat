@@ -1,2 +1,2 @@
 echo "Hello fro wellsfargo %date% : %time% "
-echo "This is master"
+echo "This is defect"
