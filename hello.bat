@@ -1,0 +1,1 @@
+echo "Hello fro wellsfargo %date% : %time% "
